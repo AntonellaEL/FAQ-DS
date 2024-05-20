@@ -9,3 +9,10 @@
     padding: 10px;
     box-sizing: border-box;
 }
+.informations h2 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+ div p{
+    font-size: 15px;
+ }
