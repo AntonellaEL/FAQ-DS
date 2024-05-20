@@ -4,3 +4,8 @@
     color:black;
     text-decoration: none;
 }
+.informations {
+    margin-left: 220px;
+    padding: 10px;
+    box-sizing: border-box;
+}
