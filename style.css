@@ -3,6 +3,15 @@
     padding:7px;
     color:black;
     text-decoration: none;
+    display: block;
+    margin:5px;
+
+}
+.buttons{
+    position: fixed;   
+    height: 100%;
+    width:200px;
+    box-sizing: content-box;
 }
 .informations {
     margin-left: 220px;
@@ -15,4 +24,7 @@
 }
  div p{
     font-size: 15px;
+ }
+ body{
+    font-family: 'Times New Roman', Times, serif;
  }
